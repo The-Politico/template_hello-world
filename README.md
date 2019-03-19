@@ -1,6 +1,6 @@
 # Hello World Template
 
-This is an example template to show off some of the functionality of @politico/interactive-templates (or PIT).
+This is an example template to show off some of the functionality of [@politico/interactive-templates](https://github.com/The-Politico/politico-interactive-templates) (or PIT).
 
 # Quick start
 
