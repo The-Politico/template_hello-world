@@ -6,7 +6,7 @@ module.exports = {
     {
       type: 'input',
       name: 'username',
-      message: 'What's your name? ',
+      message: 'What\'s your name? ',
     },
     {
       type: 'input',
