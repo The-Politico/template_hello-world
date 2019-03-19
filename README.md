@@ -27,3 +27,5 @@ $ pit new
 ```
 $ npm run test
 ```
+
+6. You should see a console log addressing you by name and telling you the current year.
