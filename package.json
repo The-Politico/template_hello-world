@@ -1,0 +1,11 @@
+{
+  "name": "<%=app%>",
+  "version": "1.0.0",
+  "description": "A base example template for @politico/interactive-templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node <%=app%>/index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
